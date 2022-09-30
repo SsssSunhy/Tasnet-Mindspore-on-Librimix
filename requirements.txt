@@ -1,0 +1,2 @@
+librosa==0.9.1
+mir-eval==0.7
